@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/juan/Downloads/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/juan/Downloads/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_96537f9c899c8e13256f2aa3c17341743685b1d6/classes.dex" />
+    </item>
+    <item
+        jar="/home/juan/Downloads/Sunshine/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="db23df79dd4c5f3ee13d7a1f880ab140cd7543d5">
+        <dex dex="/home/juan/Downloads/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bda7e49ffdaa578dd19d57c83c50b2ceaafc25ac/classes.dex" />
+    </item>
+    <item
+        jar="/home/juan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/juan/Downloads/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_c750f9d5952a0abb93c7e00b5e1f5d0ee04bf44d/classes.dex" />
+    </item>
+    <item
+        jar="/home/juan/Downloads/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/juan/Downloads/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_f8f929754336675b4170cd487b1185936273b570/classes.dex" />
+    </item>
+    <item
+        jar="/home/juan/Downloads/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/juan/Downloads/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_72b0bb7887c067942721d14520583250891ed9cf/classes.dex" />
+    </item>
+    <item
+        jar="/home/juan/Downloads/Sunshine/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="efb59ef0d823a79301b0a97ed40338ce306038b5">
+        <dex dex="/home/juan/Downloads/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a516fb4855ef0fd2e09ad5d0b44906e6223c3616/classes.dex" />
+    </item>
+    <item
+        jar="/home/juan/Downloads/Sunshine/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/juan/Downloads/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_7eac72082ab7c7e7a068e2a8b5ba95b33ebe9b16/classes.dex" />
+    </item>
+    <item
+        jar="/home/juan/Downloads/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/juan/Downloads/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_e8a28b422338fb6a9bb99e7471aa7a18c709e0a0/classes.dex" />
+    </item>
+
+</items>
